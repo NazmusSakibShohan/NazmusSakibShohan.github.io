@@ -1468,15 +1468,13 @@ input, select, textarea {
 
 			#header {
 				padding: 1.5rem 0;
+				display: none;
 			}
 
 				#header .content .inner {
 					padding: 2.5rem 0;
 				}
-			         #header .content p {
-                                          display: none; /* This will hide the paragraph content in the header */
-                                }
-
+			         
 
 				#header nav ul {
 					-moz-flex-direction: column;
