@@ -17,5 +17,5 @@ A personal portfolio / homepage built using HTML, CSS, SCSS, and JavaScript. Thi
 
 ---
 
-## 📁 Repository Structure
+
 
