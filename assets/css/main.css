@@ -32,6 +32,14 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+article p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+.work-content p, .work-content ul li {
+    text-align: justify;
+    text-justify: inter-word;
+}
 
 ol, ul {
 	list-style: none;
